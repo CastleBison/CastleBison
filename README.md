@@ -1,16 +1,20 @@
-## Hi there 👋
+##  How to Reach Me & Blogs
 
-<!--
-**CastleBison/CastleBison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@bisondev-j6p4e">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/><br>
+        YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://velog.io/@sungwoo_dev/posts">
+        <img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"/><br>
+        Unreal Engine Blog
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
